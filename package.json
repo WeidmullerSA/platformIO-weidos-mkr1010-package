@@ -1,0 +1,23 @@
+{
+  "name": "framework-arduino-samd-weidmuller",
+  "version": "2.0.4",
+  "description": "Weidmuller fork for Weidos Arduino mkr1010 boards, custom created",
+  "keywords": [
+    "framework",
+    "arduino"
+  ],
+  "engines": {
+  	"platformio": "^6"
+  },
+  "frameworks": {
+  	"arduino": {
+  		"package": "framework-arduino-samd-weidmuller",
+  		"script": "builder/frameworks/arduino.py"
+  	}
+  },
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "insert weidmuller_mkr_repository"
+  }
+}
