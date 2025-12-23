@@ -1,0 +1,49 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LoRa	KEYWORD1
+RadioError	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+reset	KEYWORD2
+
+autobaud	KEYWORD2
+hweui	KEYWORD2
+appkey	KEYWORD2
+appeui	KEYWORD2
+deveui	KEYWORD2
+sysver	KEYWORD2
+init	KEYWORD2
+initABP	KEYWORD2
+initOTAA	KEYWORD2
+tx	KEYWORD2
+txBytes	KEYWORD2
+txCnf	KEYWORD2
+txUncnf	KEYWORD2
+txCommand	KEYWORD2
+setDR	KEYWORD2
+sleep	KEYWORD2
+sendRawCommand	KEYWORD2
+moduleType	KEYWORD2
+setFrequencyPlan	KEYWORD2
+getRx	KEYWORD2
+base16encode	KEYWORD2
+base16decode	KEYWORD2
+getLastErrorInvalidParam	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TX_RETURN_TYPE	LITERAL1
+RADIO_OK	LITERAL1
+RADIO_INVALID_PARAM	LITERAL1
+RADIO_BUSY	LITERAL1
+RADIO_TIMEOUT	LITERAL1
